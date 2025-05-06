@@ -10,7 +10,7 @@ export default async function HomePage() {
   return (
     <>
       <main>
-        <h1>Wishlist For Friends</h1>
+        <h1 className="text-primary-main">Wishlist For Friends</h1>
       </main>
       <Footer
       // locale={locale}
